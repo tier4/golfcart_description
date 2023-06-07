@@ -9,7 +9,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0"/>
       <geometry>
-        <mesh filename="package://golfcart_description/mesh/golfcart.dae" scale="1 1 1"/>
+        <mesh filename="package://golfcart_description/mesh/golfcart.dae" scale="1.4325 1.2091 1.1978"/>
       </geometry>
     </visual>
   </link>
